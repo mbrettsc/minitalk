@@ -16,7 +16,7 @@
 void	get_binary(int pid, char *str)
 {
 	int	i;
-    int	tmp;
+	int	tmp;
 
 	while (*str)
 	{
